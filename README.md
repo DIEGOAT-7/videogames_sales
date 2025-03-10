@@ -1,5 +1,5 @@
 ### videogames_sales
-- Un análisis profundo de como han evolucionado las ventas de videojuegos en u determinado tiempo. Este proyecto lo enfoqué mucho en la importancia de tener un notebook bien ordenado y fácil de leer ya que muchas veces compartiremos estos notebooks con algunos compañeros y es importante que puedan entenderlo, ya que para trabajar con datos es indispensable la buena información y la buena comunicación.
+- Un análisis profundo de como han evolucionado las ventas de videojuegos en un determinado tiempo. Este proyecto lo enfoqué mucho en la importancia de tener un notebook bien ordenado y fácil de leer ya que muchas veces compartiremos estos notebooks con algunos compañeros y es importante que puedan entenderlo, ya que para trabajar con datos es indispensable la buena información y la buena comunicación.
 
 # Descripción del proyecto
 
